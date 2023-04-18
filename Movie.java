@@ -102,7 +102,7 @@ public class Movie {
         Movie m1 = new Movie();
 
         //movie hunger games
-        Movie m2 = new Movie("Hunger Games", 2012, 142, "Gary Ross");
+        Movie m2 = new Movie("The Last Kingdom", 2023, 142, "Netflix");
         m2.addReview(5);
         m2.addReview(4);
         m2.addReview(6);
